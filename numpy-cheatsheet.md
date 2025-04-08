@@ -412,4 +412,7 @@ Common operations in ML workflows:
 
 ---
 
+### Resources:
+- Youtube: [NumPy Full Python Course - NeuralNine](https://youtu.be/4c_mwnYdbhQ?si=4uxl7w7v5FVhYCrm)
+
 *~Happy Learning!!~*
